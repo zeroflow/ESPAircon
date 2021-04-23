@@ -13,12 +13,12 @@ Currently nearly no abstraction of the data. So you need to send binary values f
 ```
 {
     "on": true, 
-    "temperature": "24" 
+    "temperature": "24",
     "mode": 8, 
     "fan": 2,
     "timer": false, 
     "timer_value": "0", 
-    "unitF": false, 
+    "unitF": false
 }
 ```
 
